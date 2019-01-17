@@ -4,12 +4,15 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import './lib/jquery-vender.js'
+import './lib/icheck-vender.js'
 import 'bootstrap'
 import 'admin-lte'
 import 'bootstrap/dist/css/bootstrap.css'
 import 'font-awesome/css/font-awesome.css'
+import 'Ionicons/dist/css/ionicons.min.css'
 import 'admin-lte/dist/css/AdminLTE.min.css'
 import 'admin-lte/dist/css/skins/_all-skins.min.css'
+import 'Icheck/skins/all.css'
 
 Vue.config.productionTip = false
 
